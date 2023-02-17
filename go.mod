@@ -7,12 +7,12 @@ require (
 	github.com/Azure/go-autorest/autorest/validation v0.3.0
 	github.com/btubbs/datetime v0.1.0
 	github.com/davecgh/go-spew v1.1.1
-	github.com/google/uuid v1.1.1
+	github.com/google/uuid v1.3.0
 	github.com/hashicorp/go-azure-helpers v0.12.0
-	github.com/hashicorp/go-getter v1.4.0
+	github.com/hashicorp/go-getter v1.7.0
 	github.com/hashicorp/go-multierror v1.0.0
 	github.com/hashicorp/go-uuid v1.0.1
-	github.com/hashicorp/go-version v1.2.0
+	github.com/hashicorp/go-version v1.6.0
 	github.com/hashicorp/hcl v1.0.0 // indirect
 	github.com/hashicorp/terraform-plugin-sdk v1.13.1
 	github.com/rickb777/date v1.12.5-0.20200422084442-6300e543c4d9
@@ -21,9 +21,9 @@ require (
 	github.com/sergi/go-diff v1.1.0
 	github.com/terraform-providers/terraform-provider-azuread v0.9.0
 	github.com/tombuildsstuff/giovanni v0.13.0
-	golang.org/x/crypto v0.0.0-20201002170205-7f63de1d35b0
-	golang.org/x/net v0.0.0-20200301022130-244492dfa37a
-	gopkg.in/yaml.v2 v2.2.4
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	golang.org/x/net v0.1.0
+	gopkg.in/yaml.v2 v2.2.8
 )
 
 go 1.13
